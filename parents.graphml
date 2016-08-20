@@ -1879,6 +1879,27 @@
         </y:ShapeNode>
       </data>
     </node>
+    <node id="n105">
+      <data key="d5"/>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="72.8046875" width="395.515625" x="792.2421875" y="293.59765625"/>
+          <y:Fill color="#FFFFFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.8046875" modelName="custom" textColor="#000000" visible="true" width="385.515625" x="5.0" y="5.0">свежую версию можно посмотреть по адресу
+https://raw.githubusercontent.com/FeelUsM/parents/master/parents.png
+или по адресу
+https://github.com/FeelUsM/parents/blob/master/parents.png<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
     <edge id="e0" source="n0" target="n1">
       <data key="d10">
         <y:PolyLineEdge>
