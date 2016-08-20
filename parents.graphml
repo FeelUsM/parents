@@ -35,7 +35,7 @@
     <node id="n1">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="1665.0" y="165.0"/>
+          <y:Geometry height="30.0" width="30.0" x="1785.0" y="165.0"/>
           <y:Fill color="#00FF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="13.0" y="13.0">
@@ -53,7 +53,7 @@
     <node id="n2">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="43.40234375" width="167.474609375" x="1596.2626953125" y="278.298828125"/>
+          <y:Geometry height="43.40234375" width="167.474609375" x="1716.2626953125" y="278.298828125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="157.474609375" x="5.0" y="5.0">Усков Филипп Геннадьевич
@@ -71,10 +71,10 @@
     <node id="n3">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="43.40234375" width="264.166015625" x="1157.9169921875" y="-111.701171875"/>
+          <y:Geometry height="58.103515625" width="264.166015625" x="1157.9169921875" y="-119.0517578125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" modelName="custom" textColor="#000000" visible="true" width="254.166015625" x="5.0" y="-2.3505859375">Шербан(Башмачникова) Лия Александровна
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" modelName="custom" textColor="#000000" visible="true" width="254.166015625" x="5.0" y="5.0">Шербан(Башмачникова) Лия Александровна
 преподаватель в Техникуме
 28.11.1928<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -90,12 +90,12 @@
     <node id="n4">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="43.40234375" width="154.37890625" x="1452.810546875" y="-111.701171875"/>
+          <y:Geometry height="58.103515625" width="154.37890625" x="1452.810546875" y="-119.0517578125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" modelName="custom" textColor="#000000" visible="true" width="144.37890625" x="5.0" y="-2.3505859375">Шербан Янош Яношевич
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" modelName="custom" textColor="#000000" visible="true" width="144.37890625" x="5.0" y="5.0">Шербан Янош Яношевич
 Строительный инженер
-20.12.1926 - 18.11.1992<y:LabelModel>
+20.12.1926 - 20.11.1992<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -131,7 +131,7 @@
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="165.66015625" x="5.0" y="5.0">Маркова Зоя Александровна
-26.02.1902 - (?)18.05.1984<y:LabelModel>
+26.02.1902 - 22.05.1984<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -148,8 +148,8 @@
           <y:Geometry height="43.40234375" width="231.078125" x="964.4609374999998" y="-261.701171875"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="221.078125" x="5.000000000000057" y="5.0">Башмачников Александр Меркурьевич
-уехал в Сочи<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="221.078125" x="5.0" y="5.0">Башмачников Александр Меркурьевич
+1903 - ?  уехал в Сочи<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -200,14 +200,14 @@
     <node id="n10">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="72.8046875" width="252.04296875" x="1643.978515625" y="-276.40234375"/>
+          <y:Geometry height="72.8046875" width="263.12890625" x="1638.435546875" y="-276.40234375"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="77.505859375" modelName="custom" textColor="#000000" visible="true" width="253.12890625" x="-0.54296875" y="-2.3505859375">Шербан Янош Яношевич
-приехал в г. Уральск из Венгрии
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.8046875" modelName="custom" textColor="#000000" visible="true" width="253.12890625" x="5.0" y="5.0">Шербан Янош Яношевич
 1890г родился в Будапеште
+заведовал меховым комбинатом в Уральске
 репрессирован (расстрелян в 09.10.1938г)
-заведовал меховым комбинатом в Уральске<y:LabelModel>
+<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -277,10 +277,11 @@
     <node id="n14">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="213.4765625" x="673.26171875" y="-405.0"/>
+          <y:Geometry height="43.40234375" width="213.4765625" x="673.26171875" y="-411.701171875"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="203.4765625" x="5.0" y="5.6494140625">Мусатова Александра Куприяновна<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="203.4765625" x="5.0" y="5.0">Мусатова Александра Куприяновна
+1860 - 16.02.1958<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -298,7 +299,7 @@
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="229.966796875" x="5.0" y="5.0">Шербан-&gt;Сучкова Маргарита Яношевна
-1930 - ...<y:LabelModel>
+1930 - 26.02.2004<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -316,7 +317,7 @@
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="140.705078125" x="5.0" y="5.0">Сучков Сергей Юрьевич
-(ДЦП) 1956<y:LabelModel>
+26.06.1956 (ДЦП)<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -527,10 +528,11 @@
     <node id="n28">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="82.021484375" x="1878.9892578125" y="-105.0"/>
+          <y:Geometry height="43.40234375" width="138.11328125" x="1880.943359375" y="-111.701171875"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="72.021484375" x="5.0" y="5.6494140625">Сучков Юра<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="128.11328125" x="5.0" y="5.0">Сучков Юра
+27.07.1928-19.05.1980<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -544,7 +546,7 @@
     <node id="n29">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="84.0546875" x="1967.97265625" y="-105.0"/>
+          <y:Geometry height="30.0" width="84.0546875" x="2027.9726562500005" y="-105.0"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="74.0546875" x="5.0" y="5.6494140625">Сучков Толя<y:LabelModel>
@@ -561,7 +563,7 @@
     <node id="n30">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="1965.0" y="-195.0"/>
+          <y:Geometry height="30.0" width="30.0" x="2055.0" y="-195.0"/>
           <y:Fill color="#00FF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="13.0" y="13.0">
@@ -1207,7 +1209,6 @@
       </data>
     </node>
     <node id="n67">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="61.7890625" x="-210.89453125" y="45.0"/>
@@ -1225,7 +1226,6 @@
       </data>
     </node>
     <node id="n68">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="104.1640625" x="637.91796875" y="195.0"/>
@@ -1243,7 +1243,6 @@
       </data>
     </node>
     <node id="n69">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="585.0" y="255.0"/>
@@ -1262,7 +1261,6 @@
       </data>
     </node>
     <node id="n70">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="170.720703125" x="514.6396484375" y="345.0"/>
@@ -1280,7 +1278,6 @@
       </data>
     </node>
     <node id="n71">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="81.517578125" x="-10.7587890625" y="-105.0"/>
@@ -1298,7 +1295,6 @@
       </data>
     </node>
     <node id="n72">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="75.0" y="-165.0"/>
@@ -1317,7 +1313,6 @@
       </data>
     </node>
     <node id="n73">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="96.6640625" x="-948.33203125" y="-555.0"/>
@@ -1335,10 +1330,9 @@
       </data>
     </node>
     <node id="n74">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="99.21875" x="-1519.609375" y="-405.0"/>
+          <y:Geometry height="30.0" width="99.21875" x="-1579.609375" y="-405.0"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="89.21875" x="5.0" y="5.6494140625">Митрясов Петр<y:LabelModel>
@@ -1353,13 +1347,12 @@
       </data>
     </node>
     <node id="n75">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="155.638671875" x="-1397.8193359375" y="-405.0"/>
+          <y:Geometry height="30.0" width="223.0625" x="-1461.53125" y="-405.0"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="145.638671875" x="5.0" y="5.6494140625">Аполинария Григорьевеа<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="213.0625" x="5.0" y="5.6494140625">Аполинария Григорьевеа (тетя Пана)<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1371,7 +1364,6 @@
       </data>
     </node>
     <node id="n76">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="43.40234375" width="220.9296875" x="-1220.46484375" y="-411.701171875"/>
@@ -1390,7 +1382,6 @@
       </data>
     </node>
     <node id="n77">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="169.630859375" x="-984.8154296875" y="-405.0"/>
@@ -1408,7 +1399,6 @@
       </data>
     </node>
     <node id="n78">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="176.228515625" x="-1468.1142578125" y="-255.0"/>
@@ -1426,7 +1416,6 @@
       </data>
     </node>
     <node id="n79">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-1395.0" y="-345.0"/>
@@ -1445,7 +1434,6 @@
       </data>
     </node>
     <node id="n80">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-1125.0" y="-345.0"/>
@@ -1464,7 +1452,6 @@
       </data>
     </node>
     <node id="n81">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="183.142578125" x="-1201.5712890625" y="-255.0"/>
@@ -1482,7 +1469,6 @@
       </data>
     </node>
     <node id="n82">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-1275.0" y="-195.0"/>
@@ -1503,10 +1489,10 @@
     <node id="n83">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="167.73828125" x="2076.130859375" y="44.99999999999994"/>
+          <y:Geometry height="43.40234375" width="167.73828125" x="2316.1308593750005" y="38.298828125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="157.73828125" x="5.0" y="-1.701171875">Титов Геннадий Андреевич
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="157.73828125" x="5.0" y="5.0">Титов Геннадий Андреевич
 13.06.1954<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -1521,7 +1507,7 @@
     <node id="n84">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="104.791015625" x="2257.6044921875" y="44.99999999999994"/>
+          <y:Geometry height="30.0" width="104.791015625" x="2497.6044921875005" y="45.0"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="94.791015625" x="5.0" y="5.6494140625">Ольга Петровна<y:LabelModel>
@@ -1538,7 +1524,7 @@
     <node id="n85">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="2235.0" y="104.99999999999994"/>
+          <y:Geometry height="30.0" width="30.0" x="2475.0000000000005" y="105.0"/>
           <y:Fill color="#00FF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="13.0" y="13.0">
@@ -1556,10 +1542,10 @@
     <node id="n86">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="35.40234375" width="76.49609375" x="2211.751953125" y="192.29882812499994"/>
+          <y:Geometry height="43.40234375" width="76.49609375" x="2451.7519531250005" y="188.298828125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="66.49609375" x="5.0" y="1.0000000000000568">Ирина
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="66.49609375" x="5.0" y="5.0">Ирина
 г. Тольятти<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -1574,7 +1560,7 @@
     <node id="n87">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="2295.0" y="255.0"/>
+          <y:Geometry height="30.0" width="30.0" x="2535.0000000000005" y="255.00000000000006"/>
           <y:Fill color="#00FF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="13.0" y="13.0">
@@ -1592,7 +1578,7 @@
     <node id="n88">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="60.306640625" x="2279.8466796875" y="345.0"/>
+          <y:Geometry height="30.0" width="60.306640625" x="2519.8466796875005" y="345.00000000000006"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="50.306640625" x="5.0" y="5.6494140625">Алексей<y:LabelModel>
@@ -1609,7 +1595,7 @@
     <node id="n89">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="2295.0" y="-45.00000000000006"/>
+          <y:Geometry height="30.0" width="30.0" x="2535.0000000000005" y="-45.0"/>
           <y:Fill color="#00FF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="13.0" y="13.0">
@@ -1627,10 +1613,10 @@
     <node id="n90">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="157.4375" x="2381.28125" y="44.99999999999994"/>
+          <y:Geometry height="43.40234375" width="157.4375" x="2621.2812500000005" y="38.298828125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="147.4375" x="5.0" y="-1.701171875">Титов Виктор Андреевич
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="147.4375" x="5.0" y="5.0">Титов Виктор Андреевич
 23.09.1955 (Калининград)<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -1645,10 +1631,10 @@
     <node id="n91">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="157.080078125" x="2111.4599609375" y="-105.00000000000006"/>
+          <y:Geometry height="43.40234375" width="157.080078125" x="2351.4599609375005" y="-111.701171875"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="147.080078125" x="5.0" y="-1.701171875">Титов Андрей Федорович
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="147.080078125" x="5.0" y="5.0">Титов Андрей Федорович
 1903 - 1977<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -1663,10 +1649,10 @@
     <node id="n92">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="161.26953125" x="2319.365234375" y="-105.00000000000006"/>
+          <y:Geometry height="43.40234375" width="161.26953125" x="2559.3652343750005" y="-111.701171875"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="151.26953125" x="5.0" y="-1.701171875">Рудер Аг(а)да Генриховна
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="151.26953125" x="5.0" y="5.0">Рудер Аг(а)да Генриховна
 1921 - 1980<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -1681,10 +1667,10 @@
     <node id="n93">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="145.4375" x="2387.28125" y="194.99999999999994"/>
+          <y:Geometry height="43.40234375" width="145.4375" x="2627.2812500000005" y="188.298828125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="135.4375" x="5.0" y="-1.7011718749999432">Титов Олег Викторович
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="135.4375" x="5.0" y="5.0">Титов Олег Викторович
 ст<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -1699,10 +1685,10 @@
     <node id="n94">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="179.08203125" x="2550.458984375" y="44.99999999999994"/>
+          <y:Geometry height="43.40234375" width="179.08203125" x="2790.4589843750005" y="38.298828125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="169.08203125" x="5.0" y="-1.701171875">Мурскова Тамара Федоровна
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="169.08203125" x="5.0" y="5.0">Мурскова Тамара Федоровна
 1955<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -1717,7 +1703,7 @@
     <node id="n95">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="2535.0" y="104.99999999999994"/>
+          <y:Geometry height="30.0" width="30.0" x="2775.0000000000005" y="105.0"/>
           <y:Fill color="#00FF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="13.0" y="13.0">
@@ -1735,10 +1721,10 @@
     <node id="n96">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="159.734375" x="2560.1328125" y="194.99999999999994"/>
+          <y:Geometry height="43.40234375" width="159.734375" x="2800.1328125000005" y="188.298828125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="149.734375" x="5.0" y="-1.7011718749999432">Титов Андрей Викторович
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="149.734375" x="5.0" y="5.0">Титов Андрей Викторович
 мл<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -1753,10 +1739,10 @@
     <node id="n97">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="2744.9999999999995" y="194.99999999999994"/>
+          <y:Geometry height="30.0" width="30.0" x="2985.0" y="195.0"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="10.673828125" x="9.6630859375" y="5.649414062500057">?<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="10.673828125" x="9.6630859375" y="5.6494140625">?<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1770,7 +1756,7 @@
     <node id="n98">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="2685.0" y="255.0"/>
+          <y:Geometry height="30.0" width="30.0" x="2925.0000000000005" y="255.00000000000006"/>
           <y:Fill color="#00FF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="13.0" y="13.0">
@@ -1788,7 +1774,7 @@
     <node id="n99">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="42.376953125" x="2678.8115234375" y="345.0"/>
+          <y:Geometry height="30.0" width="42.376953125" x="2918.8115234375005" y="345.00000000000006"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="32.376953125" x="5.0" y="5.6494140625">Илья<y:LabelModel>
@@ -1805,7 +1791,7 @@
     <node id="n100">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="55.396484375" x="2462.3017578125" y="345.0"/>
+          <y:Geometry height="30.0" width="55.396484375" x="2702.3017578125005" y="345.00000000000006"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="45.396484375" x="5.0" y="5.6494140625">Герман<y:LabelModel>
@@ -1822,11 +1808,67 @@
     <node id="n101">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="2475.0" y="255.0"/>
+          <y:Geometry height="30.0" width="30.0" x="2715.0000000000005" y="255.00000000000006"/>
           <y:Fill color="#00FF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="13.0" y="13.0">
             <y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n102">
+      <data key="d5"/>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="43.40234375" width="159.447265625" x="2140.2763671875" y="-111.701171875"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="149.447265625" x="5.0" y="5.0">Владислав
+05.11.1930 - 25.06.1960(?)<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n103">
+      <data key="d5"/>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="43.40234375" width="192.880859375" x="1943.5595703125" y="-261.701171875"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="182.880859375" x="5.0" y="5.0">Сучков Константин Михайлович
+26.12.1899 - 11.01.1969<y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n104">
+      <data key="d5"/>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="30.0" x="2205.0" y="-255.0"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="10.673828125" x="9.6630859375" y="5.6494140625">?<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -2507,7 +2549,6 @@
       </data>
     </edge>
     <edge id="e66" source="n67" target="n41">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2518,7 +2559,6 @@
       </data>
     </edge>
     <edge id="e67" source="n34" target="n69">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2529,7 +2569,6 @@
       </data>
     </edge>
     <edge id="e68" source="n68" target="n69">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2540,7 +2579,6 @@
       </data>
     </edge>
     <edge id="e69" source="n69" target="n70">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2551,7 +2589,6 @@
       </data>
     </edge>
     <edge id="e70" source="n72" target="n71">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2562,7 +2599,6 @@
       </data>
     </edge>
     <edge id="e71" source="n72" target="n18">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2573,7 +2609,6 @@
       </data>
     </edge>
     <edge id="e72" source="n74" target="n79">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2584,7 +2619,6 @@
       </data>
     </edge>
     <edge id="e73" source="n75" target="n79">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2595,7 +2629,6 @@
       </data>
     </edge>
     <edge id="e74" source="n79" target="n78">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2606,7 +2639,6 @@
       </data>
     </edge>
     <edge id="e75" source="n76" target="n80">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2617,7 +2649,6 @@
       </data>
     </edge>
     <edge id="e76" source="n77" target="n80">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2628,7 +2659,6 @@
       </data>
     </edge>
     <edge id="e77" source="n80" target="n81">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2639,7 +2669,6 @@
       </data>
     </edge>
     <edge id="e78" source="n78" target="n82">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2650,7 +2679,6 @@
       </data>
     </edge>
     <edge id="e79" source="n81" target="n82">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2661,7 +2689,6 @@
       </data>
     </edge>
     <edge id="e80" source="n82" target="n39">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2852,6 +2879,38 @@
       </data>
     </edge>
     <edge id="e99" source="n83" target="n1">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e100" source="n30" target="n102">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e101" source="n103" target="n30">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e102" source="n104" target="n30">
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
