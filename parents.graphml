@@ -740,10 +740,10 @@
     <node id="n40">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="43.40234375" width="193.15625" x="-96.578125" y="38.298828125"/>
+          <y:Geometry height="43.40234375" width="258.435546875" x="-129.2177734375" y="38.298828125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="183.15625" x="5.0" y="5.0">Кузьмина Людмила Васильевна
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="248.435546875" x="5.0" y="5.0">Баринова-&gt;Кузьмина Людмила Васильевна
 23.08.1952<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -1942,7 +1942,7 @@ https://github.com/FeelUsM/parents/blob/master/parents.png<y:LabelModel>
     <node id="n108">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="49.390625" x="-174.6953125" y="45.0"/>
+          <y:Geometry height="30.0" width="49.390625" x="-204.6953125" y="45.0"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="39.390625" x="5.0" y="5.6494140625">Слава<y:LabelModel>
